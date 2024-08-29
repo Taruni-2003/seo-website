@@ -111,7 +111,7 @@ body {
 .section-title{
     margin-bottom: 2rem;
 }
-@media screen ( min-width :992px ) {
+@media screen (min-width :992px) {
     .section-center{
         width:95%;
         padding : 4rem,  1rem;
@@ -150,6 +150,7 @@ body {
     display:none ;
 }
 .navbar {
+    
     position: fixed;
     background-color: #000000;
     top: 0;
@@ -279,7 +280,7 @@ body {
     
 50%
     {
-        text-shadow: 0 -5px 20px rgba(255, 69, 0, 0.8), 
+        text-shadow : 0 -5px 20px rgba(255, 69, 0, 0.8), 
         0 -5px 40px rgba(255, 69, 0, 0.6), 
         0 -5px 60px rgba(255, 69, 0, 0.4), 
         0 -5px 80px rgba(255, 69, 0, 0.2);
